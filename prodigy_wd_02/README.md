@@ -14,8 +14,5 @@ This is a simple and interactive stopwatch web application built using HTML, CSS
 - **HTML:** Used for creating the structure and layout of the stopwatch.
 - **CSS:** Used for styling the stopwatch and buttons, providing a visually appealing interface.
 - **JavaScript:** Used for implementing stopwatch functionality, including time tracking and button actions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 
 "# PRODIGY_WD_02" 
